@@ -1,0 +1,102 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E354220F-4445-41B7-938F-4F629E5F90BA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EEFBA122-1170-4D7A-B89A-EE2C5ECDD608",
+    "height": 160,
+    "width": 588,
+    "x": 329,
+    "y": 171
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "B4EE4661-9C0A-4F69-A2FF-2A77597B9072"
+    },
+    {
+      "class": "text",
+      "id": "86DB5C43-473D-4DC4-BE70-EEAC270BEA64"
+    },
+    {
+      "class": "text",
+      "id": "55528163-6FC6-4AFF-90A1-1C77B5C6F13B"
+    },
+    {
+      "class": "text",
+      "id": "48A90728-9BA5-490B-AFFE-B11B83E76419"
+    },
+    {
+      "class": "text",
+      "id": "26980929-1BE8-4E6C-939A-3A5DC6DA66FD"
+    },
+    {
+      "class": "text",
+      "id": "EDF18A85-58C5-40CE-9272-52203AA8529A"
+    },
+    {
+      "class": "text",
+      "id": "F9B2E956-29DA-4D2E-B2EA-EB11E690A2C0"
+    },
+    {
+      "class": "text",
+      "id": "DF6E0577-E53B-4D44-8DBC-E6C4417140A9"
+    },
+    {
+      "class": "text",
+      "id": "FB926451-9D5D-4AF4-9626-D4F3EF293B26"
+    },
+    {
+      "class": "text",
+      "id": "977B43F3-D856-4825-A6F4-327D53C1B34A"
+    },
+    {
+      "class": "text",
+      "id": "DED9E7AA-DD68-4621-8598-D6A63A8D3C60"
+    },
+    {
+      "class": "text",
+      "id": "DE3BAB98-BC9C-4A71-B203-8115676FD1E6"
+    },
+    {
+      "class": "text",
+      "id": "13F6EA8A-E529-4949-A157-02A62E6CD6E9"
+    }
+  ],
+  "name": "light theme",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

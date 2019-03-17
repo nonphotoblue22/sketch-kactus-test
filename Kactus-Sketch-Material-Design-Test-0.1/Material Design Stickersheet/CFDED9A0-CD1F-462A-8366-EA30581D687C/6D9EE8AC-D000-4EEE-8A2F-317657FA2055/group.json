@@ -1,0 +1,109 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "6D9EE8AC-D000-4EEE-8A2F-317657FA2055",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 762,
+    "width": 1281,
+    "x": -1,
+    "y": 32
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "95ECDD2C-0A9C-4AA2-87D2-5357B1DB15D1"
+    },
+    {
+      "class": "shapePath",
+      "id": "07CEB048-0DBC-43ED-A331-25EB8F98D51A"
+    },
+    {
+      "class": "shapePath",
+      "id": "337A9044-CCB2-4B6E-8E4E-8759BF4C7A18"
+    },
+    {
+      "class": "shapePath",
+      "id": "65AB7B2B-F467-4219-B215-BCD0B7D694D6"
+    },
+    {
+      "class": "shapePath",
+      "id": "20D13A48-3855-4713-80AB-EC1C755703AD"
+    },
+    {
+      "class": "shapePath",
+      "id": "935DCD1E-F060-4469-BFA6-8680294F39BA"
+    },
+    {
+      "class": "shapePath",
+      "id": "534BC987-0C59-4856-8F3E-660CD9EAA5A2"
+    },
+    {
+      "class": "text",
+      "id": "A114D04A-DD6F-45CB-A9C5-7BD5DA719D8A"
+    },
+    {
+      "class": "text",
+      "id": "6B22F84C-1411-4457-9B1C-915B717FAA3D"
+    },
+    {
+      "class": "shapePath",
+      "id": "349A9FFE-47B0-45A5-9796-E96B9B081D48"
+    },
+    {
+      "class": "shapePath",
+      "id": "C766B906-2D4A-4DCD-A81E-7A005371E535"
+    },
+    {
+      "class": "shapePath",
+      "id": "548FC5AA-75A4-4334-9FF5-F9CC5749C24B"
+    },
+    {
+      "class": "shapePath",
+      "id": "7017F578-7BA0-4699-BA87-0ABECA9EA09E"
+    },
+    {
+      "class": "shapePath",
+      "id": "CAB238C0-8FFA-41F4-B52E-AC744A7C3226"
+    },
+    {
+      "class": "shapePath",
+      "id": "EEFFE757-921A-47C3-BC68-36F3EDD9CA17"
+    }
+  ],
+  "name": "redlines",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

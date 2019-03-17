@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A01D8EB4-7DDB-4A4D-A183-76DBC4AA64CB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 725,
+    "width": 912,
+    "x": 3097,
+    "y": 1762
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "18E92A58-CEB4-4DB1-8155-E55F4852F52F"
+    },
+    {
+      "class": "text",
+      "id": "46F3780E-E2B1-4E1E-9DF9-6C80BC1B7877"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AADDA7E7-8051-44B2-89A5-79CF2C006A3D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CCF3361D-A4C1-4CBC-AE9B-BD047445E8AA"
+    }
+  ],
+  "name": "pickers",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

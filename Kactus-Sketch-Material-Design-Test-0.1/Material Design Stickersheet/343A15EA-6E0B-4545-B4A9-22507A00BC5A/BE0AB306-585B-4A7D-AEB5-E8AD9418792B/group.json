@@ -1,0 +1,102 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "BE0AB306-585B-4A7D-AEB5-E8AD9418792B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "85068EFD-1CCB-4A2C-B33E-4ADB8EFB71A0",
+    "height": 160,
+    "width": 588,
+    "x": 329,
+    "y": 335
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "C22B9286-4D40-4774-BC86-66E85CA733D0"
+    },
+    {
+      "class": "text",
+      "id": "32AF2D04-1983-45CE-B3FF-F64487F738AE"
+    },
+    {
+      "class": "text",
+      "id": "B323290A-97F4-42A9-B772-ABD224B0B108"
+    },
+    {
+      "class": "text",
+      "id": "71B4A40B-32A0-45AE-AE2C-8205532CD6CC"
+    },
+    {
+      "class": "text",
+      "id": "73FF5B14-56A8-4F18-A26B-F4F421624F29"
+    },
+    {
+      "class": "text",
+      "id": "C44D9E55-F10A-4BAD-8507-13D6E21B4A8F"
+    },
+    {
+      "class": "text",
+      "id": "0533684F-B2E8-4DF4-86CD-EAB7C4D46DB8"
+    },
+    {
+      "class": "text",
+      "id": "FEAF693B-1714-4EBF-B8CD-2F515842FCDE"
+    },
+    {
+      "class": "text",
+      "id": "5BDD5A28-BA41-4A3E-8512-743A51904CD6"
+    },
+    {
+      "class": "text",
+      "id": "451FD034-209B-47F6-A603-FEB103C12F44"
+    },
+    {
+      "class": "text",
+      "id": "33D01CD0-960B-4ABF-BA56-661A9390081F"
+    },
+    {
+      "class": "text",
+      "id": "7E7306E7-99D3-4EF8-AE5B-E6F58BFE265D"
+    },
+    {
+      "class": "text",
+      "id": "AFAE4034-C8FF-4A9A-B21B-79092A904AAB"
+    }
+  ],
+  "name": "dark theme",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

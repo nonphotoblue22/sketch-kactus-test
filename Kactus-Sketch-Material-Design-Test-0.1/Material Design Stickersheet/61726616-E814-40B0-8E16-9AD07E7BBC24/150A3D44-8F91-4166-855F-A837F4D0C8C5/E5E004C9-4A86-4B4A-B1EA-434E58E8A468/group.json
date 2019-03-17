@@ -1,0 +1,123 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E5E004C9-4A86-4B4A-B1EA-434E58E8A468",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "ADBE2B41-FF55-4F52-A89F-4D09A07038AE",
+    "height": 212,
+    "width": 168,
+    "x": 488,
+    "y": 605
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "B9CE459C-B58E-4A80-B65D-9A28BAB6EB54"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EE6480DC-12B3-4648-BCC5-B00F630F4B68"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A836A66F-A733-47F1-8809-0DE4F3B358CC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "56F771A0-7ED6-4073-A621-94720D3DF3AD"
+    },
+    {
+      "class": "rectangle",
+      "id": "2B15AEE9-E0D5-4AA1-8BB5-A5189EEC105F"
+    },
+    {
+      "class": "rectangle",
+      "id": "51FC2694-51A5-4D95-99CD-C081DD1A1A02"
+    },
+    {
+      "class": "text",
+      "id": "599E1BDC-4519-4B02-B4EE-7DB6A98EE91D"
+    }
+  ],
+  "name": "card 5",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0.26,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 0.8703294837,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Roboto-Regular",
+            "size": 16
+          }
+        },
+        "ligature": 0,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "_class": "page",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "62830784-6272-4A0C-AC7A-A3583BB2477F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "064F499A-9D92-4B20-8311-643511183054",
+    "gridSize": 4,
+    "isEnabled": false,
+    "thickGridTimes": 2
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -790,
+    "do_objectID": "BD56333A-DCB5-470F-8558-599C1B4A4284",
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "A6974B72-9A30-4308-AF6B-E34790BCD07E"
+    },
+    {
+      "class": "group",
+      "id": "687058D7-6917-4507-8AA7-0B6609886947"
+    },
+    {
+      "class": "group",
+      "id": "D3F76EFA-6456-4AD7-84F4-4F7352CE4D80"
+    },
+    {
+      "class": "group",
+      "id": "B8DB93CC-DDB7-4E22-9C87-0510C44FFDEE"
+    },
+    {
+      "class": "group",
+      "id": "61726616-E814-40B0-8E16-9AD07E7BBC24"
+    },
+    {
+      "class": "group",
+      "id": "47806C8A-7D38-47B9-992E-54DBFACE68D3"
+    },
+    {
+      "class": "group",
+      "id": "CEEDC58F-42B8-40A3-A887-6B3EC4A38B60"
+    },
+    {
+      "class": "group",
+      "id": "CF22DE9B-0AA8-433F-9986-5921092F8DFA"
+    },
+    {
+      "class": "group",
+      "id": "343A15EA-6E0B-4545-B4A9-22507A00BC5A"
+    },
+    {
+      "class": "artboard",
+      "id": "2DAF9D12-2957-48A2-B000-D076714421F6"
+    },
+    {
+      "class": "artboard",
+      "id": "CFDED9A0-CD1F-462A-8366-EA30581D687C"
+    },
+    {
+      "class": "artboard",
+      "id": "A74E8A7B-D98A-48BB-A38D-157F308A62FE"
+    },
+    {
+      "class": "artboard",
+      "id": "1A0D9705-B6DA-40D4-BDFD-D1DD152A61E3"
+    },
+    {
+      "class": "artboard",
+      "id": "CB50A620-B4F5-40EE-9C5C-709239E51A6C"
+    },
+    {
+      "class": "artboard",
+      "id": "A59E6D32-9DAD-42E2-B8C3-832B63FE99DD"
+    },
+    {
+      "class": "artboard",
+      "id": "51EB9F5C-5EB6-46D0-85CC-A42A7186F840"
+    },
+    {
+      "class": "artboard",
+      "id": "15D23678-F1B2-4476-9CE7-1D3F989BE9CD"
+    }
+  ],
+  "name": "Material Design Stickersheet",
+  "nameIsFixed": true,
+  "resizingConstraint": 0,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -502,
+    "do_objectID": "DCF03AA3-8D3E-4E51-A521-F6C4AE03C036",
+    "guides": [
+    ]
+  }
+}
