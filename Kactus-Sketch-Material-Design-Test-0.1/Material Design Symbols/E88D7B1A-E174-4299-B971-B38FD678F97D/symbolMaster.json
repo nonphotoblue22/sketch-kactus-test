@@ -71,12 +71,12 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "ACA218AD-51D2-4CA8-8C47-F3831F36218B_image"
+      "overrideName": "ACA218AD-51D2-4CA8-8C47-F3831F36218B_layerStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "ACA218AD-51D2-4CA8-8C47-F3831F36218B_layerStyle"
+      "overrideName": "ACA218AD-51D2-4CA8-8C47-F3831F36218B_image"
     }
   ],
   "resizesContent": false,

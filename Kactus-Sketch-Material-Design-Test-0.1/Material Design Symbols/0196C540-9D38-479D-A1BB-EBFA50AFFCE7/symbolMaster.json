@@ -92,12 +92,12 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "1E3235A2-5163-4E65-9A11-F5B60F8006B9_image"
+      "overrideName": "8815C9D2-948C-4CEE-A5AF-3F146ED2A529_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "8815C9D2-948C-4CEE-A5AF-3F146ED2A529_symbolID"
+      "overrideName": "1E3235A2-5163-4E65-9A11-F5B60F8006B9_image"
     },
     {
       "_class": "MSImmutableOverrideProperty",
